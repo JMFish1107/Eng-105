@@ -1,5 +1,5 @@
 # Eng-105
-This is a repository containing instructional materials and sample datasets for Prof. Gotzler's Fall 2022 section of ENGL-105 at the University of North Carolina at Chapel HIll
+These materials are CSV files and Python Notebooks created for the "Writing in the Natural Sciences" unit project of Prof. Gotzler's Fall 2022 section of ENGL-105 at the University of North Carolina at Chapel HIll
 
 This compository contains 1 Python notebook and 2 CSV files: 
 1. The original "County Health Data" dataset (CSV)
