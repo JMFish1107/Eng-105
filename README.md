@@ -1,10 +1,10 @@
 # Eng-105
 This is a repository containing instructional materials and sample datasets for Prof. Gotzler's Fall 2022 section of ENGL-105 at the University of North Carolina at Chapel HIll
 
-This compository contains 3 Python notebooks: 
-1. The original "County Health Data" dataset
-2. The notebook including needed instructions in order to sift through the County Health data 
-3. The finished product that one should have at the end of the instructional notebook 
+This compository contains 1 Python notebook and 2 CSV files: 
+1. The original "County Health Data" dataset (CSV)
+2. The notebook including needed instructions in order to sift through the County Health data (Python Notebook)
+3. The finished product that one should have at the end of the instructional notebook (CSV)
 
 These materials have been adapted from the excellent lessons created by the staff at the Research Hub of UNC's Davis Library.  
 
