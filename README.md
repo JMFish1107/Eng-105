@@ -3,7 +3,7 @@ These materials are CSV files and Python Notebooks created for the "Writing in t
 
 This compository contains 1 Python notebook and 2 CSV files: 
 1. The original "County Health Data" dataset (CSV)
-2. The notebook including needed instructions in order to sift through the County Health data (Python Notebook)
+2. The notebook including needed documentations in order to sift through the County Health data (Python Notebook)
 3. The finished product that one should have at the end of the instructional notebook (CSV)
 
 These materials have been adapted from the excellent lessons created by the staff at the Research Hub of UNC's Davis Library.  
